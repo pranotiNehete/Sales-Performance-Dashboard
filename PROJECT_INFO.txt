@@ -1,0 +1,6 @@
+PROJECT: Sales Performance Dashboard
+TOOL: Power BI Desktop
+SALES ROWS: 500
+DATA FILES: sales.csv, customers.csv, products.csv, targets.csv
+PURPOSE: Analyze sales, profit, customer segments, categories, regions.
+DATA NOTE: Synthetic sample data created for learning; not real company data.

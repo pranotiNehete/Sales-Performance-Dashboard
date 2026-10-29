@@ -1,0 +1,13 @@
+ProductID,ProductName,Category,UnitPrice,UnitCost
+P101,Laptop,Electronics,65000,52000
+P102,Smartphone,Electronics,28000,21000
+P103,Headphones,Electronics,2500,1400
+P104,Monitor,Electronics,18000,13000
+P105,Office Chair,Furniture,8500,5200
+P106,Office Desk,Furniture,12000,7600
+P107,Bookshelf,Furniture,7000,4300
+P108,Desk Lamp,Furniture,1800,900
+P109,Notebook Pack,Office Supplies,450,220
+P110,Printer Paper,Office Supplies,650,390
+P111,Pen Set,Office Supplies,300,110
+P112,Printer,Electronics,15000,11000
